@@ -193,7 +193,7 @@ my_profile = {
 print(my_profile);
 ```
 
-### Sequence
+### Seque
 
 JavaScript uses an Array which is a type of object data structure whereas Python uses the list data structure. As you can see they have many similarities in terms of the syntax you write.
 
